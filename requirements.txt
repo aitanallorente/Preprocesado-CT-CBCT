@@ -1,0 +1,7 @@
+# Python 3.10 o superior
+numpy>=1.24
+pydicom>=2.4
+SimpleITK>=2.2
+pandas>=2.0
+openpyxl>=3.1
+matplotlib>=3.7  # figuras: paso2c --figuras, figura_ct_cbct.py, verificar_fondo_cbct.py

@@ -1,0 +1,33 @@
+# Entorno y cachés
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# Datos de pacientes y derivados (NUNCA al repositorio)
+*.dcm
+DICOMDIR
+*.nii
+*.nii.gz
+*.mat
+*.tfm
+LANDMARKS/
+*.mrk.json
+*.fcsv
+*.mrml
+
+# Informes y tablas generadas
+*.csv
+*.xlsx
+
+# Salidas de scripts y figuras
+*.png
+*.pdf
+inspeccion_*.txt
+flechas_*.json
+figuras_memoria/
+
+# Material antiguo
+_archivo/
+*.bak
+*.zip
