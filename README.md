@@ -275,3 +275,18 @@ Scripts de apoyo a la memoria (no forman parte del pipeline):
 ## 8. Versiones descartadas
 
 Las versiones anteriores del registro y de la normalización que se probaron y descartaron no se incluyen en el repositorio. Se describen en el apéndice C de la memoria.
+
+## 9. Licencia
+
+Este código se distribuye bajo la licencia MIT (ver el archivo `LICENSE`).
+
+## 10. Cita
+
+Si utilizas este código, cita el Trabajo Fin de Grado del que forma parte:
+
+> Llorente Morán, A. (2027). *[TÍTULO DEL TFG]*. Trabajo Fin de Grado, Grado en Ingeniería Biomédica, Escuela de Ingeniería de Fuenlabrada, Universidad Rey Juan Carlos.
+
+## 11. Contacto
+
+Aitana Llorente Morán: a.llorentem.2022@alumnos.urjc.es  
+Escuela de Ingeniería de Fuenlabrada, Universidad Rey Juan Carlos
