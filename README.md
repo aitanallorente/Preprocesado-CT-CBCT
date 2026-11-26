@@ -284,7 +284,7 @@ Este código se distribuye bajo la licencia MIT (ver el archivo `LICENSE`).
 
 Si utilizas este código, cita el Trabajo Fin de Grado del que forma parte:
 
-> Llorente Morán, A. (2027). *[TÍTULO DEL TFG]*. Trabajo Fin de Grado, Grado en Ingeniería Biomédica, Escuela de Ingeniería de Fuenlabrada, Universidad Rey Juan Carlos.
+> Llorente Morán, A. (2026). Síntesis de imágenes CT a partir de CBCT mediante aprendizaje profundo para aplicaciones de intervencionismo guiado por imagen. Trabajo Fin de Grado, Grado en Ingeniería Biomédica, Escuela de Ingeniería de Fuenlabrada, Universidad Rey Juan Carlos.
 
 ## 11. Contacto
 
